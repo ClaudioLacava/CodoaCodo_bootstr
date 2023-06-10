@@ -437,6 +437,7 @@ color: grey;
      
      .cardU h2{
          padding-left: 0.5%;
+         font-size: 20%;
         
      }
      
@@ -527,12 +528,12 @@ color: grey;
      }
      
      .sell{
-     margin-left: 48%;
+     margin-left: 45%;
      margin-top: 1%;
      }
      
      .valorT{
-     padding-left:20%;
+     padding-left:10%;
      }
      
      .form1{
@@ -570,7 +571,7 @@ color: grey;
      margin-left: 51%;
      width: 34.4%;
      height: 6vh;
-     margin-top: -11%;
+     margin-top: -10%;
      
      }
      
