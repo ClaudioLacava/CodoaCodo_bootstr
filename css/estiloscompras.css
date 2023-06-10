@@ -351,7 +351,53 @@ color: grey;
 
   /*Celular*/
   @media screen and (min-width: 300px) and (max-width:800px){
-  
+  .headerNav{
+        background-color:  rgb(51, 55, 61);;
+        height: initial;
+        flex-direction: column;
+     padding: 1rem 1rem;
+     align-items: center;
+     justify-content: center;
+    }
+    .contenedorLogo{
+        width: 70%;
+        display:flex;
+        align-items:center;
+    
+    }
+       
+    
+    
+    .listaNav{
+ flex-direction: column;
+ align-items: center;
+ justify-content: center;
+ width: 100%;
+    }
+    
+    .linkNav{
+        text-decoration: none;
+        color:white;
+        font-size:1rem;
+        font-weight: 500;
+        padding-left:1rem;
+    }
+    
+    .linkNav:hover{
+    color: gray;
+    }
+    
+    .buyTick{
+        color: rgb(45, 156, 64);
+        text-decoration: none;
+        padding: 1rem;
+    }
+    
+    .buyTick:hover{
+        color:greenyellow;
+    }
+      
+      
     
     .sectionOradores{
         height: 35%;
